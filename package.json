@@ -1,0 +1,17 @@
+{
+  "name": "mouseqateers",
+  "licenses": [
+    "ISC"
+  ],
+  "version": "0.0.1",
+  "dependencies": {
+    "coffee-script": "1.6.x",
+    "restify": "2.6.0",
+    "socket.io": "0.9.x",
+    "node-uuid": "~1.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kitchentablecoders-sobro/mouseqateers.git"
+  }
+}
